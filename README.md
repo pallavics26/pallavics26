@@ -9,7 +9,7 @@
 
 📍 Motihari, Bihar, India
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+Developer;Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+🚀"/>
 
 </div>
 

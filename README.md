@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Pallavi Pandey
 
-### ☕ Java Developer • 🌐 Full Stack Developer • 💻 Problem Solver
+###  • 🌐 Full Stack Developer • 💻 Problem Solver
 
 🎓 Final Year B.Tech Computer Science Student @ GLA University
 
